@@ -2,7 +2,7 @@
 ### Erica Thompson-Becker 
 ### CIND 119 - Final Project (Fall 2021)
 
-A phone company wants to know in advance if a customer is going to churn in the future. We will help the company to characterize customer churn by using Naive Bayes classification and a decision tree classification. This is a project was created as a final project for CIND 119 - Introduction to Big Data at Toronto Metropolitan University. 
+A phone company wants to know in advance if a customer is going to churn in the future. The company would like to know if a decision tree classification or a naive bayes classification would be better at predicting who will churn. This is a project was created as a final project for CIND 119 - Introduction to Big Data at Toronto Metropolitan University. 
 
 The data set contains 21 attributes with a binary class attribute for churn having the choices true or false. 
 
