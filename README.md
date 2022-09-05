@@ -31,3 +31,4 @@ The data set contains 21 attributes with a binary class attribute for churn havi
 |Churn | chr (True/False)  | Class attribute with binary values|
 
 
+Tableau Graphics Link: https://public.tableau.com/app/profile/erica.tb/viz/ChurnData_16622603039230/ChurnDataDashboard 
